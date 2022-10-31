@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0
+//from https://github.com/andresudi/Voting-Smart-Contract/blob/master/Voting.sol
 
 pragma solidity >=0.7.0 <0.9.0;
 pragma abicoder v2;
